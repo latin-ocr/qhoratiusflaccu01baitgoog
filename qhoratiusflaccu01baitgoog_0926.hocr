@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiusflaccu01baitgoog_0926.png"; bbox 0 0 3030 4988; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 624 1601 667 1652">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 624 1601 667 1652">
+     <span class='ocr_line' id='line_1_1' title="bbox 624 1601 667 1652; baseline -0.047 0"><span class='ocrx_word' id='word_1_1' title='bbox 624 1601 667 1652; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 319 1809 980 1904">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 319 1809 980 1904">
+     <span class='ocr_line' id='line_1_2' title="bbox 319 1809 980 1904; baseline 0.002 -3"><span class='ocrx_word' id='word_1_2' title='bbox 319 1809 606 1903; x_wconf 81' lang='lat' dir='ltr'>CODICIBUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 645 1811 980 1904; x_wconf 82' lang='lat' dir='ltr'><strong>HORATIANIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 513 2051 780 2102">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 513 2051 780 2102">
+     <span class='ocr_line' id='line_1_3' title="bbox 513 2051 780 2102; baseline 0.004 -2"><span class='ocrx_word' id='word_1_4' title='bbox 513 2052 547 2101; x_wconf 83' lang='grc' dir='ltr'><strong>ΙΝ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 563 2051 780 2102; x_wconf 78' lang='lat' dir='ltr'><strong>BlBLIOTHECA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 160 2250 1138 2320">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 160 2250 1138 2320">
+     <span class='ocr_line' id='line_1_4' title="bbox 160 2250 1138 2320; baseline 0.002 -5"><span class='ocrx_word' id='word_1_6' title='bbox 160 2250 380 2318; x_wconf 76' lang='lat' dir='ltr'>SCHOLAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 413 2251 629 2320; x_wconf 78' lang='lat' dir='ltr'><strong>MEDICAE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 659 2253 839 2320; x_wconf 75' lang='lat' dir='ltr'>MONTIS</span> <span class='ocrx_word' id='word_1_9' title='bbox 870 2253 1138 2320; x_wconf 75' lang='lat' dir='ltr'>PESSULANI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 567 2477 852 2546">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 567 2477 852 2546">
+     <span class='ocr_line' id='line_1_5' title="bbox 567 2477 852 2546; baseline -0.004 -24"><span class='ocrx_word' id='word_1_10' title='bbox 567 2477 749 2524; x_wconf 69' lang='lat' dir='ltr'>Assnnvms.</span> <span class='ocrx_word' id='word_1_11' title='bbox 848 2539 852 2546; x_wconf 22' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1520 4988">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1520 4988">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1520 4988; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1520 4988; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
